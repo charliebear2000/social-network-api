@@ -20,7 +20,8 @@ To install this aplication, you will clone the repository from GitHub.  You will
 
 ## Usage:
 
-There is no front end for this application, so look at this walkthrough video to see the routes being tested in Insomnia.
+There is no front end for this application, so look at this [walkthrough video](https://watch.screencastify.com/v/dksJ7hJeKR4Tkw7VNan7) to see the routes being tested in Insomnia.
+
 
 ## License:
 
